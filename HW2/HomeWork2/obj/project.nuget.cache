@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gghRj6SBHMh8v62r7glfJQrMELx2ginz8Dp4WT4Oz6Oio+B+DUn/ZdaEI8slzSq/oWYM1gsJlU7eG/EhjJxH1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IDEH\\Desktop\\C#\\Homeworks\\HomeWork2\\HomeWork2\\HomeWork2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IDEH\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\IDEH\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
