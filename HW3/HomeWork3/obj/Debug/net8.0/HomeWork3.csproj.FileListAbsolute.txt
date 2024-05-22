@@ -1,0 +1,15 @@
+C:\Users\IDEH\Desktop\C#\Homeworks\HomeWork3\HomeWork3\bin\Debug\net8.0\HomeWork3.exe
+C:\Users\IDEH\Desktop\C#\Homeworks\HomeWork3\HomeWork3\bin\Debug\net8.0\HomeWork3.deps.json
+C:\Users\IDEH\Desktop\C#\Homeworks\HomeWork3\HomeWork3\bin\Debug\net8.0\HomeWork3.runtimeconfig.json
+C:\Users\IDEH\Desktop\C#\Homeworks\HomeWork3\HomeWork3\bin\Debug\net8.0\HomeWork3.dll
+C:\Users\IDEH\Desktop\C#\Homeworks\HomeWork3\HomeWork3\bin\Debug\net8.0\HomeWork3.pdb
+C:\Users\IDEH\Desktop\C#\Homeworks\HomeWork3\HomeWork3\obj\Debug\net8.0\HomeWork3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IDEH\Desktop\C#\Homeworks\HomeWork3\HomeWork3\obj\Debug\net8.0\HomeWork3.AssemblyInfoInputs.cache
+C:\Users\IDEH\Desktop\C#\Homeworks\HomeWork3\HomeWork3\obj\Debug\net8.0\HomeWork3.AssemblyInfo.cs
+C:\Users\IDEH\Desktop\C#\Homeworks\HomeWork3\HomeWork3\obj\Debug\net8.0\HomeWork3.csproj.CoreCompileInputs.cache
+C:\Users\IDEH\Desktop\C#\Homeworks\HomeWork3\HomeWork3\obj\Debug\net8.0\HomeWork3.sourcelink.json
+C:\Users\IDEH\Desktop\C#\Homeworks\HomeWork3\HomeWork3\obj\Debug\net8.0\HomeWork3.dll
+C:\Users\IDEH\Desktop\C#\Homeworks\HomeWork3\HomeWork3\obj\Debug\net8.0\refint\HomeWork3.dll
+C:\Users\IDEH\Desktop\C#\Homeworks\HomeWork3\HomeWork3\obj\Debug\net8.0\HomeWork3.pdb
+C:\Users\IDEH\Desktop\C#\Homeworks\HomeWork3\HomeWork3\obj\Debug\net8.0\HomeWork3.genruntimeconfig.cache
+C:\Users\IDEH\Desktop\C#\Homeworks\HomeWork3\HomeWork3\obj\Debug\net8.0\ref\HomeWork3.dll
